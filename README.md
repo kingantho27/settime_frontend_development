@@ -1,3 +1,3 @@
 # This is a github repository for the batch k settime students.
-## Classes started 11th february 2024.
+## MR Francis is great at teaching how to use github.
 

@@ -1,21 +1,21 @@
-## 1. To add all files>> git add . 
-to add a particular file >> git add "then the filename"
-## 2.To commit changes(to save changes) git commit -m "added a linux file"
-## 3. To push changes to the remote repository>> git push
-## 4. To pull changes >> git fetch
-## 5. del
-## 6. cd is used to navigate to a specific directory
-## 7. ls is used to list the contents in a directory
-## 8. To create a new directoy/folder>> mkdir
-## 9. To create a new file>> echo command "name of the file"
-## 10 . To copy files>> cp "filename" directory
-## 11. To copy directories>> cp -r "name of dirctory you are copying" "name of the new dirctory you are copying to"
-## 12. To move or rename files>> MV "name of files" then the directory/folder
-## 13. To move or rename directories>> MV "folder name" then the directory/folder you are moving it to 
-## 14. To remove files>> rm filename
-## 15. To remove folder>> Rm -r "folder name"
-## 16. FIND
-## 17. To display content of a file>> CAT "filename"
-## 18.chmod(file, mode)
-## 19. CHDIR
-## 20. DATE
+1. To add all files>> git add . 
+to add a particular file >> git add "then the filename" 
+2.To commit changes(to save changes) git commit -m "added a linux file"
+3. To push changes to the remote repository>> git push
+4. To pull changes >> git fetch
+5. del
+6. cd is used to navigate to a specific directory
+7. ls is used to list the contents in a directory
+8. To create a new directoy/folder>> mkdir
+9. To create a new file>> echo command "name of the file"
+10 . To copy files>> cp "filename" directory
+11. To copy directories>> cp -r "name of dirctory you are copying" "name of the new dirctory you are copying to"
+12. To move or rename files>> MV "name of files" then the directory/folder
+13. To move or rename directories>> MV "folder name" then the directory/folder you are moving it to 
+14. To remove files>> rm filename
+15. To remove folder>> Rm -r "folder name"
+16. FIND
+17. To display content of a file>> CAT "filename"
+18. chmod(file, mode)
+19. CHDIR
+20. DATE
